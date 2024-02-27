@@ -1,6 +1,8 @@
-# flutter_first_app
+# Primeiro App em Flutter
 
-A new Flutter project.
+Foi seguido o [tutorial do codelabs](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=pt-br#0) indicada no site do Flutter.
+
+![Alt Text](https://codelabs.developers.google.com/codelabs/flutter-codelab-first/img/1d26af443561f39c.gif)
 
 ## Getting Started
 
